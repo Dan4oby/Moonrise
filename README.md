@@ -1,4 +1,4 @@
-Moonrise
+Moonrise-CarpetFix
 ==
 [![Modrinth](https://img.shields.io/badge/Modrinth-gray?logo=modrinth)](https://modrinth.com/mod/moonrise-opt)
 [![CurseForge](https://img.shields.io/badge/CurseForge-gray?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/moonrise)
